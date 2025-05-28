@@ -3,11 +3,8 @@
    id="svg1"
    version="1.1"
    viewBox="0 0 262144 262144"
-   sodipodi:docname="cc-logo.svg"
    width="262144"
    height="262144"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
@@ -28,38 +25,8 @@
       }
     </style>
   </defs>
-  <sodipodi:namedview
-     id="namedview1"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:current-layer="layer1"
-     inkscape:cx="278.31037"
-     inkscape:cy="277.8125"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
-     inkscape:pagecheckerboard="0"
-     inkscape:pageopacity="0.0"
-     inkscape:showpageshadow="2"
-     inkscape:window-height="1051"
-     inkscape:window-maximized="1"
-     inkscape:window-width="1728"
-     inkscape:window-x="0"
-     inkscape:window-y="38"
-     inkscape:zoom="1.0042745"
-     pagecolor="#ffffff">
-    <inkscape:page
-       x="0"
-       y="0"
-       width="262144"
-       height="262144"
-       id="page2"
-       margin="0"
-       bleed="0" />
-  </sodipodi:namedview>
   <g
-     id="layer1"
-     inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <g
        id="text1"
        class="st1">
