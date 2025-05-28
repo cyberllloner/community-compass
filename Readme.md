@@ -25,5 +25,5 @@
 [مرامنامه](https://shirazlug.ir/about/creed/) ی شیرازلاگ و [ شیرازلاگ](https://shirazlug.ir) که مفهوم جامعه ی کاربری نرم افزار آزاد و متن باز رو به من یاد داد.
 و همچنین [contributor covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) 
 
-- از @ikeramat، پیشگام pr و ایده و طرح زیبای بالای صفحه:)
+- از @iKeramat، پیشگام pr و ایده و طرح زیبای بالای صفحه:)
 -  از @metemaddar که مشتاقانه پیگیرایده اولیه شد.
